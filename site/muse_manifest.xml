@@ -1,0 +1,83 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429802763206">
+  <folder name="css">
+    <file name="site_global.css" crc="226612767"/>
+    <file name="master_a-master.css" crc="41008300" ref="index"/>
+    <file name="master_b-master.css" crc="234539010" ref="price"/>
+    <file name="price.css" crc="515732438" ref="price"/>
+    <file name="index.css" crc="504172124" ref="index"/>
+    <file name="iefonts_index.css" crc="3820782941" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="knopa_top">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4277870922" mt="1424728802016"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1424728802016"/>
+      </folder>
+      <file name="transparent.png" crc="4242669967" mt="1424728802016"/>
+      <file name="knopa_top_edge.js" crc="356995766" mt="1424728802016"/>
+      <file name="knopa_top_edgeActions.js" crc="157384580" mt="1424728802016"/>
+      <file name="knopa_top_edgePreload.js" crc="321791070" mt="1424728802016"/>
+      <file name="knopa_top.html" crc="3939011009" mt="1424728802016"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:price"/>
+    <file name="museutils.js" crc="521960461" ref="index:price"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:price"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="220831917" ref="index"/>
+    <file name="form_check.php" crc="218543696" ref="index"/>
+    <file name="form_throttle.php" crc="3988545917" ref="index"/>
+    <file name="form_process.php" crc="4264751530" ref="index"/>
+    <file name="form-u511.php" crc="148289505" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4075913193" ref="index"/>
+    <file name="logo.svg" crc="4115454637" ref="index:price"/>
+    <file name="headerbg.jpg" crc="207480216" ref="index"/>
+    <file name="bg-u99-fr.png" crc="9908761" ref="index"/>
+    <file name="logo.png" crc="429794791" ref="index"/>
+    <file name="scroll.png" crc="407849660" ref="index"/>
+    <file name="icons-02.svg" crc="3945261058" ref="index"/>
+    <file name="icons-02_poster_.png" crc="4004782378" ref="index"/>
+    <file name="icons-03.svg" crc="4235029799" ref="index"/>
+    <file name="icons-03_poster_.png" crc="339883138" ref="index"/>
+    <file name="icons-01.svg" crc="4275648252" ref="index"/>
+    <file name="icons-01_poster_.png" crc="474158984" ref="index"/>
+    <file name="home.jpg" crc="4081381859" ref="index"/>
+    <file name="villa.jpg" crc="492615837" ref="index"/>
+    <file name="office.jpg" crc="3852672748" ref="index"/>
+    <file name="11-panorama-moskvi-v-rayone-sokol-ot-hodinskogo-polya.jpg" crc="4124057262" ref="index"/>
+    <file name="map_pointer2.svg" crc="3962079091" ref="index"/>
+    <file name="map_pointer2_poster_.png" crc="4136842843" ref="index"/>
+    <file name="house cleaning (9).jpg" crc="4043741609" ref="index"/>
+    <file name="123-01.svg" crc="236366935" ref="index"/>
+    <file name="123-01_poster_.png" crc="440924760" ref="index"/>
+    <file name="123-02.svg" crc="183931318" ref="index"/>
+    <file name="123-02_poster_.png" crc="232474384" ref="index"/>
+    <file name="123-03.svg" crc="343943636" ref="index"/>
+    <file name="123-03_poster_.png" crc="18890973" ref="index"/>
+    <file name="program-tab-shadow.png" crc="434480089" ref="index"/>
+    <file name="123-u302-fr.png" crc="4123012674" ref="index"/>
+    <file name="u514-17.png" crc="31412652" ref="index"/>
+    <file name="u514-17-r.png" crc="3772970045" ref="index"/>
+    <file name="u514-17-m.png" crc="249209168" ref="index"/>
+    <file name="u514-17-fs.png" crc="3879417525" ref="index"/>
+    <file name="p1.png" crc="361480509" ref="index"/>
+    <file name="p2.png" crc="3945117029" ref="index"/>
+    <file name="p4.png" crc="3794365976" ref="index"/>
+    <file name="p3.png" crc="43506682" ref="index"/>
+    <file name="bosch.gif" crc="4294103181" ref="index"/>
+    <file name="cleanfix.gif" crc="500539710" ref="index"/>
+    <file name="doctor.gif" crc="3886968846" ref="index"/>
+    <file name="karcher.gif" crc="447336993" ref="index"/>
+    <file name="kranzle.gif" crc="509387109" ref="index"/>
+    <file name="starmix.gif" crc="468361777" ref="index"/>
+    <file name="program-tab-shadow 1.png" crc="287566118" ref="index:price"/>
+    <file name="logo_poster_.png" crc="282799181" ref="price"/>
+  </folder>
+  <file name="index.html" crc="327227425" mt="1429802545031" redirect="true"/>
+  <file name="price.html" crc="3817967190" mt="1424732630213" redirect="true"/>
+</manifest>

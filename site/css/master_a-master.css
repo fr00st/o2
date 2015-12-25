@@ -1,0 +1,125 @@
+#u76
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DDDDDD;
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u484
+{
+	position: fixed;
+}
+
+#u725-4
+{
+	border-style: solid;
+	border-color: #DDDDDD;
+	background-color: transparent;
+	color: #7F7F7F;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: right;
+	position: fixed;
+	border-width: 0px 1px 0px 0px;
+}
+
+.js #u76.ose_pre_init,.js #u484.ose_pre_init,.js #u725-4.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u704
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#U811_animation
+{
+	border: none;
+}
+
+.deep_blue
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: #35495D;
+}
+
+#u75_align_to_page
+{
+	position: relative;
+}
+
+#u279
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u285-12
+{
+	background-color: transparent;
+	color: #DDDDDD;
+	line-height: 20px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u731-6
+{
+	border-style: solid;
+	border-color: #DDDDDD;
+	background-color: transparent;
+	color: #DDDDDD;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u286-13
+{
+	background-color: transparent;
+	color: #DDDDDD;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u286-2,#u286-4,#u286-6,#u286-8,#u286-10
+{
+	line-height: 20px;
+}
+
+#u733-5
+{
+	border-style: solid;
+	border-color: #DDDDDD;
+	background-color: transparent;
+	color: #DDDDDD;
+	text-align: right;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u733
+{
+	color: #FFFFFF;
+}
+
+#u734
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
