@@ -24,8 +24,8 @@ $form = array(
 		'unknown_method' => 'Неизвестный метод запроса сервера'
 	),
 	'email' => array(
-		'from' => 'mail@o2cleaning.ru',
-		'to' => 'mail@o2cleaning.ru'
+		'from' => 'feedback@o2clean.ru',
+		'to' => 'feedback@o2clean.ru'
 	),
 	'fields' => array(
 		'custom_U539' => array(
